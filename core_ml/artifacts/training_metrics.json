@@ -1,0 +1,9 @@
+{
+  "r2_score": 0.7749,
+  "rmse_log": 0.3397,
+  "mae_log": 0.2698,
+  "mae_eur": 6857380.56,
+  "mape_pct": 28.35,
+  "train_samples": 440,
+  "test_samples": 110
+}
