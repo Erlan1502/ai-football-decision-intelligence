@@ -45,3 +45,4 @@ class TransferDossierRequest(BaseModel):
     target_player_id: int
     analog_player_id: int
     custom_tactical_instructions: Optional[str] = None
+

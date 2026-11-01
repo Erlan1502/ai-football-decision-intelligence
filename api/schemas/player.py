@@ -78,3 +78,4 @@ class PlayerFilterParams(BaseModel):
     only_undervalued: bool = False
     limit: int = Field(default=50, ge=1, le=500)
     offset: int = Field(default=0, ge=0)
+

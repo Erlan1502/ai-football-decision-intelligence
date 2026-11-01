@@ -240,3 +240,4 @@ Return a strictly validated JSON object conforming to the TransferDossierSchema 
 
 
 scout_agent = ScoutAgentService()
+

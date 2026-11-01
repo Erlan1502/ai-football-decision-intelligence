@@ -50,3 +50,4 @@ class CVProcessRequest(BaseModel):
     video_path: Optional[str] = None
     max_frames: int = Field(default=50, ge=10, le=300)
     fps: float = Field(default=25.0, ge=10.0, le=60.0)
+

@@ -23,3 +23,4 @@ class TacticalAnalogsResponse(BaseModel):
     target_market_value_eur: float
     total_analogs_found: int
     analogs: List[TacticalAnalogItem]
+

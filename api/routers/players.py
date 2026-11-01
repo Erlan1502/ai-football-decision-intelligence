@@ -82,3 +82,4 @@ def get_player_by_id(player_id: int):
     if not player:
         raise HTTPException(status_code=404, detail=f"Player with ID {player_id} not found.")
     return _format_player_response(player)
+

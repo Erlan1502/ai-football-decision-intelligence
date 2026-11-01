@@ -135,3 +135,4 @@ def test_cv_sample_tracking_endpoint(client):
     assert cv_data.pitch_dimensions_meters.width == 68.0
     assert len(cv_data.frames) > 0
     assert len(cv_data.aggregated_metrics.heat_zones_matrix_grid) == 10
+

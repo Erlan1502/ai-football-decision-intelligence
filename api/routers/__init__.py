@@ -9,3 +9,4 @@ __all__ = [
     "squad_router",
     "cv_router",
 ]
+

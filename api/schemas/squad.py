@@ -34,3 +34,4 @@ class SquadOptimizationResponse(BaseModel):
     total_players: int
     solve_time_sec: float
     squad: List[SelectedSquadPlayer]
+

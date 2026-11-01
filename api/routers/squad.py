@@ -68,3 +68,4 @@ def optimize_squad(req: SquadOptimizationRequest):
         solve_time_sec=res["solve_time_sec"],
         squad=squad_players,
     )
+

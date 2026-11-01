@@ -46,3 +46,4 @@ def get_sample_tracking():
     with open(SAMPLE_OUTPUT_JSON, "r", encoding="utf-8") as f:
         data = json.load(f)
     return TrackingEventResponse(**data)
+
