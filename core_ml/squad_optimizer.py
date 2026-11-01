@@ -142,11 +142,15 @@ class SquadOptimizer:
             "formation": formation,
             "budget_cap_eur": float(budget_cap_eur),
             "total_spent_eur": total_spent,
+            "total_cost_eur": total_spent,
             "budget_remaining_eur": round(budget_cap_eur - total_spent, 2),
             "total_undervaluation_delta_eur": round(total_delta, 2),
             "avg_performance_score": round(avg_perf, 2),
+            "total_performance_score": round(float(selected_df["performance_score"].sum()), 2),
             "total_players": len(squad_list),
             "solve_time_sec": elapsed,
+            "solve_time_seconds": elapsed,
             "squad": squad_list,
+            "selected_players": squad_list,
         }
 

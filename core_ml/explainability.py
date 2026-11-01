@@ -67,14 +67,38 @@ class MarketValueExplainer:
 
     def explain_player(
         self,
-        player_row: pd.Series,
+        player_row: Any,
         top_k: int = 4,
     ) -> Dict[str, Any]:
         """
         Computes SHAP feature attribution for a single player.
         Returns top positive (value drivers) and negative (discount factors).
         """
-        X_sample = pd.DataFrame([player_row[self.feature_names]])
+        if isinstance(player_row, dict):
+            # Flatten stats and metrics if nested
+            flattened = dict(player_row)
+            if "stats" in flattened and isinstance(flattened["stats"], dict):
+                flattened.update(flattened["stats"])
+            if "metrics" in flattened and isinstance(flattened["metrics"], dict):
+                flattened.update(flattened["metrics"])
+
+            pos = flattened.get("primary_position", "")
+            league = flattened.get("league", "")
+            for feat in self.feature_names:
+                if feat.startswith("primary_position_"):
+                    cat = feat.replace("primary_position_", "")
+                    flattened[feat] = 1.0 if pos == cat else 0.0
+                elif feat.startswith("league_"):
+                    cat = feat.replace("league_", "")
+                    flattened[feat] = 1.0 if league == cat else 0.0
+                elif feat not in flattened:
+                    flattened[feat] = 0.0
+
+            s = pd.Series(flattened)
+        else:
+            s = player_row
+
+        X_sample = pd.DataFrame([s[self.feature_names]])
         raw_shap = self.explainer.shap_values(X_sample)
         shap_values = np.ravel(raw_shap)  # 1D array of length n_features
         pred_log = float(self.model.predict(X_sample)[0])
@@ -118,3 +142,7 @@ class MarketValueExplainer:
             "top_negative_drivers": neg_drivers,
             "total_features_analyzed": len(self.feature_names),
         }
+
+
+# Service Alias
+SHAPExplainerService = MarketValueExplainer

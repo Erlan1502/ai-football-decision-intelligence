@@ -7,6 +7,8 @@ from typing import Optional
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", extra="ignore")
 
+    BASE_DIR: str = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
     # Database Settings
     POSTGRES_HOST: str = "localhost"
     POSTGRES_PORT: int = 5432
