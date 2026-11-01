@@ -1,0 +1,47 @@
+# =============================================================================
+# Football Moneyball 2.0 & Scouting Decision Intelligence
+# Core Project Dependencies
+# =============================================================================
+
+# FastAPI & Async Web Framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+httpx>=0.27.0
+pydantic>=2.9.0
+pydantic-settings>=2.5.0
+
+# Database, ORM & Vector Storage
+SQLAlchemy[asyncio]>=2.0.30
+asyncpg>=0.30.0
+psycopg[binary]>=3.2.0
+psycopg2-binary>=2.9.9
+pgvector>=0.3.0
+alembic>=1.13.0
+greenlet>=3.1.0
+
+# Core Tabular ML, XAI & Optimization
+lightgbm>=4.3.0
+catboost>=1.2.0
+shap>=0.45.0
+scipy>=1.13.0
+scikit-learn>=1.5.0
+pandas>=2.2.0
+numpy>=1.26.0
+joblib>=1.4.0
+
+# Computer Vision & Video Processing
+ultralytics>=8.3.0
+opencv-python-headless>=4.10.0
+
+# Google GenAI / Gemini 3.8 Flash SDK
+google-genai>=0.1.0
+
+# Interactive Frontend & Visualizations
+streamlit>=1.38.0
+plotly>=5.24.0
+
+# Testing & Utilities
+pytest>=8.3.0
+pytest-asyncio>=0.24.0
+python-dotenv>=1.0.0
+

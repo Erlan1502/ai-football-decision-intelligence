@@ -1,0 +1,83 @@
+services:
+  # -------------------------------------------------------------------------
+  # Core Database Service: PostgreSQL 18 with pgvector (HNSW Indexing)
+  # Run directly in hybrid mode: docker compose up -d db
+  # -------------------------------------------------------------------------
+  db:
+    image: pgvector/pgvector:pg18
+    container_name: moneyball_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-moneyball_db}
+      POSTGRES_USER: ${POSTGRES_USER:-moneyball}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-moneyball_secret}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./db/migrations/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-moneyball} -d ${POSTGRES_DB:-moneyball_db}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    networks:
+      - moneyball-network
+
+  # -------------------------------------------------------------------------
+  # Production / Full Deployment Profile: FastAPI Backend
+  # Run with: docker compose --profile full up -d
+  # -------------------------------------------------------------------------
+  api:
+    profiles: ["full"]
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    container_name: moneyball_api
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgresql+asyncpg://${POSTGRES_USER:-moneyball}:${POSTGRES_PASSWORD:-moneyball_secret}@db:5432/${POSTGRES_DB:-moneyball_db}
+      DATABASE_URL_SYNC: postgresql://${POSTGRES_USER:-moneyball}:${POSTGRES_PASSWORD:-moneyball_secret}@db:5432/${POSTGRES_DB:-moneyball_db}
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+      MODEL_NAME: ${MODEL_NAME:-gemini-3.8-flash}
+      ENVIRONMENT: ${ENVIRONMENT:-production}
+    ports:
+      - "${API_PORT:-8000}:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - moneyball-network
+
+  # -------------------------------------------------------------------------
+  # Production / Full Deployment Profile: Streamlit 2.0 UI
+  # Run with: docker compose --profile full up -d
+  # -------------------------------------------------------------------------
+  ui:
+    profiles: ["full"]
+    build:
+      context: .
+      dockerfile: Dockerfile.ui
+    container_name: moneyball_ui
+    restart: unless-stopped
+    environment:
+      API_BASE_URL: http://api:8000
+      STREAMLIT_SERVER_PORT: 8501
+      STREAMLIT_SERVER_ADDRESS: 0.0.0.0
+    ports:
+      - "${UI_PORT:-8501}:8501"
+    depends_on:
+      - api
+    networks:
+      - moneyball-network
+
+volumes:
+  pgdata:
+    name: moneyball_pgdata
+
+networks:
+  moneyball-network:
+    name: moneyball_network
+    driver: bridge
+
