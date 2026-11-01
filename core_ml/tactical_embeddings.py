@@ -160,3 +160,4 @@ class TacticalEmbeddingEngine:
         # Sort by similarity score descending
         candidates.sort(key=lambda x: x["similarity_score_pct"], reverse=True)
         return candidates[:top_k]
+

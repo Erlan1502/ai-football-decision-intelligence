@@ -1,0 +1,8268 @@
+{
+  "match_id": "clip_scout_poc_001",
+  "pitch_dimensions_meters": {
+    "length": 105.0,
+    "width": 68.0
+  },
+  "fps": 25.0,
+  "total_frames_processed": 30,
+  "processing_time_sec": 0.133,
+  "frames": [
+    {
+      "frame_idx": 0,
+      "timestamp_sec": 0.0,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 62.68,
+          "pitch_y": 23.54,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1093.0,
+            328.0,
+            1127.0,
+            398.0
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 72.88,
+          "pitch_y": 22.69,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1242.5,
+            318.8,
+            1276.5,
+            388.8
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 80.46,
+          "pitch_y": 30.88,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1364.8,
+            409.7,
+            1398.8,
+            479.7
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 86.75,
+          "pitch_y": 29.87,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1457.9,
+            398.2,
+            1491.9,
+            468.2
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 91.35,
+          "pitch_y": 39.85,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1546.5,
+            514.9,
+            1580.5,
+            584.9
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 59.95,
+          "pitch_y": 41.4,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1059.4,
+            533.7,
+            1093.4,
+            603.7
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 68.62,
+          "pitch_y": 51.19,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1203.2,
+            657.2,
+            1237.2,
+            727.2
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.11,
+          "pitch_y": 50.88,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1356.0,
+            653.1,
+            1390.0,
+            723.1
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.46,
+          "pitch_y": 57.78,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1487.6,
+            745.1,
+            1521.6,
+            815.1
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 91.66,
+          "pitch_y": 56.65,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1587.4,
+            729.8,
+            1621.4,
+            799.8
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.91,
+          "pitch_y": 20.11,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            774.0,
+            291.2,
+            808.0,
+            361.2
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.68,
+          "pitch_y": 21.69,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            638.0,
+            308.1,
+            672.0,
+            378.1
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 25.59,
+          "pitch_y": 33.08,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            534.2,
+            434.9,
+            568.2,
+            504.9
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 19.91,
+          "pitch_y": 33.18,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            447.7,
+            436.1,
+            481.7,
+            506.1
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.35,
+          "pitch_y": 41.16,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            347.7,
+            530.7,
+            381.7,
+            600.7
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 44.31,
+          "pitch_y": 39.68,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            815.8,
+            512.8,
+            849.8,
+            582.8
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.97,
+          "pitch_y": 48.22,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            662.9,
+            618.8,
+            696.9,
+            688.8
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.09,
+          "pitch_y": 49.29,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            519.4,
+            632.5,
+            553.4,
+            702.5
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.17,
+          "pitch_y": 58.95,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            406.7,
+            761.2,
+            440.7,
+            831.2
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 14.9,
+          "pitch_y": 59.43,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            318.2,
+            767.8,
+            352.2,
+            837.8
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 52.5,
+        "pitch_y": 57.99,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 1,
+      "timestamp_sec": 0.04,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 62.75,
+          "pitch_y": 23.54,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1094.1,
+            328.0,
+            1128.1,
+            398.0
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 72.92,
+          "pitch_y": 22.64,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1243.0,
+            318.3,
+            1277.0,
+            388.3
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 80.43,
+          "pitch_y": 30.83,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1364.3,
+            409.1,
+            1398.3,
+            479.1
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 86.67,
+          "pitch_y": 29.86,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1456.8,
+            398.1,
+            1490.8,
+            468.1
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 91.3,
+          "pitch_y": 39.9,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1545.8,
+            515.4,
+            1579.8,
+            585.4
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 59.98,
+          "pitch_y": 41.45,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1059.8,
+            534.3,
+            1093.8,
+            604.3
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 68.68,
+          "pitch_y": 51.21,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1204.3,
+            657.4,
+            1238.3,
+            727.4
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.16,
+          "pitch_y": 50.84,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1356.8,
+            652.6,
+            1390.8,
+            722.6
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.46,
+          "pitch_y": 57.73,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1487.4,
+            744.5,
+            1521.4,
+            814.5
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 91.6,
+          "pitch_y": 56.63,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            1586.4,
+            729.5,
+            1620.4,
+            799.5
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.84,
+          "pitch_y": 20.15,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            773.0,
+            291.6,
+            807.0,
+            361.6
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.68,
+          "pitch_y": 21.75,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            638.0,
+            308.7,
+            672.0,
+            378.7
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 25.66,
+          "pitch_y": 33.11,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            535.2,
+            435.2,
+            569.2,
+            505.2
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 19.97,
+          "pitch_y": 33.17,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            448.7,
+            435.9,
+            482.7,
+            505.9
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.35,
+          "pitch_y": 41.11,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            347.8,
+            530.1,
+            381.8,
+            600.1
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 44.25,
+          "pitch_y": 39.65,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            814.9,
+            512.4,
+            848.9,
+            582.4
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.91,
+          "pitch_y": 48.23,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            661.9,
+            619.0,
+            695.9,
+            689.0
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.08,
+          "pitch_y": 49.33,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            519.1,
+            633.1,
+            553.1,
+            703.1
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.23,
+          "pitch_y": 58.99,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            407.5,
+            761.7,
+            441.5,
+            831.7
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 14.98,
+          "pitch_y": 59.42,
+          "speed_kmh": 0.0,
+          "bbox_px": [
+            319.4,
+            767.7,
+            353.4,
+            837.7
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 54.24,
+        "pitch_y": 57.97,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 2,
+      "timestamp_sec": 0.08,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 62.83,
+          "pitch_y": 23.54,
+          "speed_kmh": 6.7,
+          "bbox_px": [
+            1095.2,
+            328.0,
+            1129.2,
+            398.0
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 72.96,
+          "pitch_y": 22.59,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            1243.6,
+            317.7,
+            1277.6,
+            387.7
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 80.41,
+          "pitch_y": 30.78,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            1363.8,
+            408.5,
+            1397.8,
+            478.5
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 86.6,
+          "pitch_y": 29.86,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            1455.7,
+            398.1,
+            1489.7,
+            468.1
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 91.25,
+          "pitch_y": 39.94,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1545.1,
+            515.9,
+            1579.1,
+            585.9
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.0,
+          "pitch_y": 41.5,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            1060.1,
+            534.9,
+            1094.1,
+            604.9
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 68.75,
+          "pitch_y": 51.21,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1205.4,
+            657.5,
+            1239.4,
+            727.5
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.21,
+          "pitch_y": 50.81,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            1357.6,
+            652.2,
+            1391.6,
+            722.2
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.45,
+          "pitch_y": 57.68,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            1487.2,
+            743.8,
+            1521.2,
+            813.8
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 91.54,
+          "pitch_y": 56.62,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1585.4,
+            729.3,
+            1619.4,
+            799.3
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.78,
+          "pitch_y": 20.18,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            772.1,
+            291.9,
+            806.1,
+            361.9
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.69,
+          "pitch_y": 21.82,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            638.1,
+            309.4,
+            672.1,
+            379.4
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 25.72,
+          "pitch_y": 33.13,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            536.1,
+            435.5,
+            570.1,
+            505.5
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.04,
+          "pitch_y": 33.14,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            449.7,
+            435.6,
+            483.7,
+            505.6
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.35,
+          "pitch_y": 41.06,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            347.9,
+            529.5,
+            381.9,
+            599.5
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 44.19,
+          "pitch_y": 39.61,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            814.0,
+            512.0,
+            848.0,
+            582.0
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.84,
+          "pitch_y": 48.26,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            660.8,
+            619.3,
+            694.8,
+            689.3
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.06,
+          "pitch_y": 49.38,
+          "speed_kmh": 4.3,
+          "bbox_px": [
+            518.8,
+            633.7,
+            552.8,
+            703.7
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.27,
+          "pitch_y": 59.02,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            408.2,
+            762.1,
+            442.2,
+            832.1
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.03,
+          "pitch_y": 59.41,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            320.4,
+            767.5,
+            354.4,
+            837.5
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 55.98,
+        "pitch_y": 57.9,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 3,
+      "timestamp_sec": 0.12,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 62.91,
+          "pitch_y": 23.53,
+          "speed_kmh": 7.2,
+          "bbox_px": [
+            1096.4,
+            327.9,
+            1130.4,
+            397.9
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.0,
+          "pitch_y": 22.53,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1244.1,
+            317.1,
+            1278.1,
+            387.1
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 80.38,
+          "pitch_y": 30.73,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            1363.3,
+            408.0,
+            1397.3,
+            478.0
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 86.53,
+          "pitch_y": 29.85,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1454.6,
+            398.0,
+            1488.6,
+            468.0
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 91.2,
+          "pitch_y": 39.98,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            1544.4,
+            516.4,
+            1578.4,
+            586.4
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.02,
+          "pitch_y": 41.55,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            1060.5,
+            535.5,
+            1094.5,
+            605.5
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 68.82,
+          "pitch_y": 51.23,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1206.5,
+            657.7,
+            1240.5,
+            727.7
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.27,
+          "pitch_y": 50.77,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1358.4,
+            651.7,
+            1392.4,
+            721.7
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.44,
+          "pitch_y": 57.64,
+          "speed_kmh": 4.1,
+          "bbox_px": [
+            1487.0,
+            743.2,
+            1521.0,
+            813.2
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 91.48,
+          "pitch_y": 56.6,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1584.3,
+            729.1,
+            1618.3,
+            799.1
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.72,
+          "pitch_y": 20.22,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            771.2,
+            292.3,
+            805.2,
+            362.3
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.7,
+          "pitch_y": 21.87,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            638.2,
+            310.0,
+            672.2,
+            380.0
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 25.79,
+          "pitch_y": 33.16,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            537.1,
+            435.8,
+            571.1,
+            505.8
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.1,
+          "pitch_y": 33.11,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            450.7,
+            435.3,
+            484.7,
+            505.3
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.35,
+          "pitch_y": 41.0,
+          "speed_kmh": 4.9,
+          "bbox_px": [
+            348.0,
+            528.8,
+            382.0,
+            598.8
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 44.13,
+          "pitch_y": 39.58,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            813.1,
+            511.6,
+            847.1,
+            581.6
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.78,
+          "pitch_y": 48.27,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            659.8,
+            619.5,
+            693.8,
+            689.5
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.05,
+          "pitch_y": 49.43,
+          "speed_kmh": 4.7,
+          "bbox_px": [
+            518.6,
+            634.4,
+            552.6,
+            704.4
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.33,
+          "pitch_y": 59.05,
+          "speed_kmh": 5.2,
+          "bbox_px": [
+            409.1,
+            762.6,
+            443.1,
+            832.6
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.1,
+          "pitch_y": 59.4,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            321.5,
+            767.4,
+            355.5,
+            837.4
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 57.7,
+        "pitch_y": 57.8,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 4,
+      "timestamp_sec": 0.16,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 62.99,
+          "pitch_y": 23.52,
+          "speed_kmh": 7.3,
+          "bbox_px": [
+            1097.5,
+            327.8,
+            1131.5,
+            397.8
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.04,
+          "pitch_y": 22.48,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1244.6,
+            316.6,
+            1278.6,
+            386.6
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 80.34,
+          "pitch_y": 30.68,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            1362.7,
+            407.4,
+            1396.7,
+            477.4
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 86.46,
+          "pitch_y": 29.85,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1453.5,
+            398.0,
+            1487.5,
+            468.0
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 91.15,
+          "pitch_y": 40.03,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1543.8,
+            517.0,
+            1577.8,
+            587.0
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.05,
+          "pitch_y": 41.6,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            1061.0,
+            536.1,
+            1095.0,
+            606.1
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 68.89,
+          "pitch_y": 51.24,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1207.6,
+            657.8,
+            1241.6,
+            727.8
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.32,
+          "pitch_y": 50.74,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1359.2,
+            651.3,
+            1393.2,
+            721.3
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.43,
+          "pitch_y": 57.59,
+          "speed_kmh": 4.1,
+          "bbox_px": [
+            1486.7,
+            742.6,
+            1520.7,
+            812.6
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 91.41,
+          "pitch_y": 56.59,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            1583.2,
+            728.9,
+            1617.2,
+            798.9
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.66,
+          "pitch_y": 20.25,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            770.4,
+            292.7,
+            804.4,
+            362.7
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.72,
+          "pitch_y": 21.93,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            638.3,
+            310.6,
+            672.3,
+            380.6
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 25.86,
+          "pitch_y": 33.18,
+          "speed_kmh": 6.7,
+          "bbox_px": [
+            538.1,
+            436.1,
+            572.1,
+            506.1
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.15,
+          "pitch_y": 33.08,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            451.6,
+            434.9,
+            485.6,
+            504.9
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.34,
+          "pitch_y": 40.95,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            348.0,
+            528.2,
+            382.0,
+            598.2
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 44.07,
+          "pitch_y": 39.56,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            812.2,
+            511.3,
+            846.2,
+            581.3
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.71,
+          "pitch_y": 48.29,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            658.7,
+            619.7,
+            692.7,
+            689.7
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.05,
+          "pitch_y": 49.48,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            518.4,
+            635.0,
+            552.4,
+            705.0
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.38,
+          "pitch_y": 59.08,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            409.9,
+            763.0,
+            443.9,
+            833.0
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.16,
+          "pitch_y": 59.39,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            322.6,
+            767.2,
+            356.6,
+            837.2
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 59.41,
+        "pitch_y": 57.65,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 5,
+      "timestamp_sec": 0.2,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 63.06,
+          "pitch_y": 23.51,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            1098.6,
+            327.7,
+            1132.6,
+            397.7
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.08,
+          "pitch_y": 22.43,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            1245.1,
+            316.0,
+            1279.1,
+            386.0
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 80.31,
+          "pitch_y": 30.64,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1362.1,
+            406.9,
+            1396.1,
+            476.9
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 86.38,
+          "pitch_y": 29.85,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            1452.4,
+            398.0,
+            1486.4,
+            468.0
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 91.11,
+          "pitch_y": 40.07,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            1543.2,
+            517.5,
+            1577.2,
+            587.5
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.08,
+          "pitch_y": 41.65,
+          "speed_kmh": 5.2,
+          "bbox_px": [
+            1061.4,
+            536.7,
+            1095.4,
+            606.7
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 68.95,
+          "pitch_y": 51.24,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1208.7,
+            657.8,
+            1242.7,
+            727.8
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.37,
+          "pitch_y": 50.7,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            1359.9,
+            650.8,
+            1393.9,
+            720.8
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.42,
+          "pitch_y": 57.55,
+          "speed_kmh": 4.1,
+          "bbox_px": [
+            1486.4,
+            742.0,
+            1520.4,
+            812.0
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 91.35,
+          "pitch_y": 56.57,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            1582.2,
+            728.7,
+            1616.2,
+            798.7
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.6,
+          "pitch_y": 20.3,
+          "speed_kmh": 6.5,
+          "bbox_px": [
+            769.5,
+            293.2,
+            803.5,
+            363.2
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.73,
+          "pitch_y": 21.99,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            638.5,
+            311.3,
+            672.5,
+            381.3
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 25.93,
+          "pitch_y": 33.21,
+          "speed_kmh": 6.7,
+          "bbox_px": [
+            539.2,
+            436.4,
+            573.2,
+            506.4
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.22,
+          "pitch_y": 33.05,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            452.6,
+            434.6,
+            486.6,
+            504.6
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.33,
+          "pitch_y": 40.89,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            348.0,
+            527.5,
+            382.0,
+            597.5
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 44.01,
+          "pitch_y": 39.52,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            811.2,
+            510.9,
+            845.2,
+            580.9
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.65,
+          "pitch_y": 48.31,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            657.7,
+            620.0,
+            691.7,
+            690.0
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.04,
+          "pitch_y": 49.53,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            518.2,
+            635.6,
+            552.2,
+            705.6
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.43,
+          "pitch_y": 59.11,
+          "speed_kmh": 5.2,
+          "bbox_px": [
+            410.7,
+            763.4,
+            444.7,
+            833.4
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.23,
+          "pitch_y": 59.37,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            323.7,
+            767.0,
+            357.7,
+            837.0
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 61.1,
+        "pitch_y": 57.46,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 6,
+      "timestamp_sec": 0.24,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 63.14,
+          "pitch_y": 23.5,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            1099.7,
+            327.6,
+            1133.7,
+            397.6
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.11,
+          "pitch_y": 22.37,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1245.5,
+            315.4,
+            1279.5,
+            385.4
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 80.27,
+          "pitch_y": 30.59,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1361.5,
+            406.4,
+            1395.5,
+            476.4
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 86.3,
+          "pitch_y": 29.85,
+          "speed_kmh": 7.2,
+          "bbox_px": [
+            1451.2,
+            398.0,
+            1485.2,
+            468.0
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 91.06,
+          "pitch_y": 40.12,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            1542.6,
+            518.1,
+            1576.6,
+            588.1
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.11,
+          "pitch_y": 41.69,
+          "speed_kmh": 4.9,
+          "bbox_px": [
+            1061.9,
+            537.2,
+            1095.9,
+            607.2
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.02,
+          "pitch_y": 51.24,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            1209.8,
+            657.9,
+            1243.8,
+            727.9
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.41,
+          "pitch_y": 50.66,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1360.6,
+            650.3,
+            1394.6,
+            720.3
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.4,
+          "pitch_y": 57.51,
+          "speed_kmh": 3.8,
+          "bbox_px": [
+            1486.0,
+            741.4,
+            1520.0,
+            811.4
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 91.29,
+          "pitch_y": 56.56,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1581.1,
+            728.5,
+            1615.1,
+            798.5
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.55,
+          "pitch_y": 20.34,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            768.7,
+            293.6,
+            802.7,
+            363.6
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.75,
+          "pitch_y": 22.05,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            638.7,
+            311.9,
+            672.7,
+            381.9
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 26.0,
+          "pitch_y": 33.23,
+          "speed_kmh": 6.7,
+          "bbox_px": [
+            540.2,
+            436.6,
+            574.2,
+            506.6
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.27,
+          "pitch_y": 33.02,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            453.5,
+            434.2,
+            487.5,
+            504.2
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.32,
+          "pitch_y": 40.84,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            347.9,
+            526.9,
+            381.9,
+            596.9
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 43.95,
+          "pitch_y": 39.5,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            810.3,
+            510.6,
+            844.3,
+            580.6
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.59,
+          "pitch_y": 48.33,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            656.7,
+            620.3,
+            690.7,
+            690.3
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.04,
+          "pitch_y": 49.58,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            518.1,
+            636.3,
+            552.1,
+            706.3
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.49,
+          "pitch_y": 59.14,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            411.6,
+            763.8,
+            445.6,
+            833.8
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.29,
+          "pitch_y": 59.36,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            324.8,
+            766.8,
+            358.8,
+            836.8
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 62.75,
+        "pitch_y": 57.23,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 7,
+      "timestamp_sec": 0.28,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 63.21,
+          "pitch_y": 23.49,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            1100.8,
+            327.5,
+            1134.8,
+            397.5
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.14,
+          "pitch_y": 22.32,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1245.9,
+            314.8,
+            1279.9,
+            384.8
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 80.23,
+          "pitch_y": 30.54,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            1360.8,
+            405.8,
+            1394.8,
+            475.8
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 86.23,
+          "pitch_y": 29.86,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            1450.1,
+            398.1,
+            1484.1,
+            468.1
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 91.02,
+          "pitch_y": 40.16,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            1542.1,
+            518.6,
+            1576.1,
+            588.6
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.14,
+          "pitch_y": 41.74,
+          "speed_kmh": 4.9,
+          "bbox_px": [
+            1062.5,
+            537.8,
+            1096.5,
+            607.8
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.09,
+          "pitch_y": 51.25,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1210.9,
+            658.0,
+            1244.9,
+            728.0
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.46,
+          "pitch_y": 50.62,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1361.3,
+            649.8,
+            1395.3,
+            719.8
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.38,
+          "pitch_y": 57.46,
+          "speed_kmh": 4.4,
+          "bbox_px": [
+            1485.6,
+            740.8,
+            1519.6,
+            810.8
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 91.22,
+          "pitch_y": 56.55,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1580.0,
+            728.4,
+            1614.0,
+            798.4
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.5,
+          "pitch_y": 20.39,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            767.9,
+            294.1,
+            801.9,
+            364.1
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.77,
+          "pitch_y": 22.1,
+          "speed_kmh": 5.3,
+          "bbox_px": [
+            638.9,
+            312.5,
+            672.9,
+            382.5
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 26.07,
+          "pitch_y": 33.24,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            541.2,
+            436.8,
+            575.2,
+            506.8
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.33,
+          "pitch_y": 32.98,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            454.4,
+            433.8,
+            488.4,
+            503.8
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.31,
+          "pitch_y": 40.79,
+          "speed_kmh": 4.6,
+          "bbox_px": [
+            347.9,
+            526.3,
+            381.9,
+            596.3
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 43.88,
+          "pitch_y": 39.47,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            809.3,
+            510.3,
+            843.3,
+            580.3
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.53,
+          "pitch_y": 48.36,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            655.7,
+            620.6,
+            689.7,
+            690.6
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.04,
+          "pitch_y": 49.63,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            518.1,
+            636.9,
+            552.1,
+            706.9
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.55,
+          "pitch_y": 59.17,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            412.5,
+            764.2,
+            446.5,
+            834.2
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.35,
+          "pitch_y": 59.34,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            325.8,
+            766.6,
+            359.8,
+            836.6
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 64.38,
+        "pitch_y": 56.96,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 8,
+      "timestamp_sec": 0.32,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 63.29,
+          "pitch_y": 23.47,
+          "speed_kmh": 6.9,
+          "bbox_px": [
+            1101.9,
+            327.3,
+            1135.9,
+            397.3
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.17,
+          "pitch_y": 22.26,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1246.3,
+            314.2,
+            1280.3,
+            384.2
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 80.19,
+          "pitch_y": 30.5,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1360.1,
+            405.3,
+            1394.1,
+            475.3
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 86.16,
+          "pitch_y": 29.86,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1449.0,
+            398.1,
+            1483.0,
+            468.1
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.99,
+          "pitch_y": 40.21,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1541.6,
+            519.2,
+            1575.6,
+            589.2
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.17,
+          "pitch_y": 41.78,
+          "speed_kmh": 4.9,
+          "bbox_px": [
+            1063.0,
+            538.3,
+            1097.0,
+            608.3
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.16,
+          "pitch_y": 51.25,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1212.0,
+            658.0,
+            1246.0,
+            728.0
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.5,
+          "pitch_y": 50.58,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1361.9,
+            649.3,
+            1395.9,
+            719.3
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.36,
+          "pitch_y": 57.42,
+          "speed_kmh": 4.4,
+          "bbox_px": [
+            1485.2,
+            740.2,
+            1519.2,
+            810.2
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 91.16,
+          "pitch_y": 56.54,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1578.9,
+            728.3,
+            1612.9,
+            798.3
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.44,
+          "pitch_y": 20.42,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            767.1,
+            294.5,
+            801.1,
+            364.5
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.79,
+          "pitch_y": 22.16,
+          "speed_kmh": 5.3,
+          "bbox_px": [
+            639.2,
+            313.1,
+            673.2,
+            383.1
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 26.14,
+          "pitch_y": 33.26,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            542.3,
+            437.0,
+            576.3,
+            507.0
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.38,
+          "pitch_y": 32.95,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            455.3,
+            433.4,
+            489.3,
+            503.4
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.3,
+          "pitch_y": 40.74,
+          "speed_kmh": 4.6,
+          "bbox_px": [
+            347.8,
+            525.6,
+            381.8,
+            595.6
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 43.82,
+          "pitch_y": 39.45,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            808.3,
+            510.0,
+            842.3,
+            580.0
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.48,
+          "pitch_y": 48.38,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            654.8,
+            620.9,
+            688.8,
+            690.9
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.04,
+          "pitch_y": 49.67,
+          "speed_kmh": 4.1,
+          "bbox_px": [
+            518.0,
+            637.5,
+            552.0,
+            707.5
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.61,
+          "pitch_y": 59.2,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            413.4,
+            764.6,
+            447.4,
+            834.6
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.41,
+          "pitch_y": 59.33,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            326.8,
+            766.4,
+            360.8,
+            836.4
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 65.97,
+        "pitch_y": 56.64,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 9,
+      "timestamp_sec": 0.36,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 63.35,
+          "pitch_y": 23.46,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1102.9,
+            327.2,
+            1136.9,
+            397.2
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.19,
+          "pitch_y": 22.21,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1246.6,
+            313.6,
+            1280.6,
+            383.6
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 80.14,
+          "pitch_y": 30.46,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1359.4,
+            404.9,
+            1393.4,
+            474.9
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 86.08,
+          "pitch_y": 29.87,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            1447.9,
+            398.2,
+            1481.9,
+            468.2
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.95,
+          "pitch_y": 40.26,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            1541.1,
+            519.8,
+            1575.1,
+            589.8
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.21,
+          "pitch_y": 41.83,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1063.6,
+            538.9,
+            1097.6,
+            608.9
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.23,
+          "pitch_y": 51.25,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1213.2,
+            658.0,
+            1247.2,
+            728.0
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.54,
+          "pitch_y": 50.54,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1362.5,
+            648.7,
+            1396.5,
+            718.7
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.34,
+          "pitch_y": 57.37,
+          "speed_kmh": 4.4,
+          "bbox_px": [
+            1484.8,
+            739.6,
+            1518.8,
+            809.6
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 91.09,
+          "pitch_y": 56.53,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1577.8,
+            728.2,
+            1611.8,
+            798.2
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.4,
+          "pitch_y": 20.47,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            766.4,
+            295.0,
+            800.4,
+            365.0
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.82,
+          "pitch_y": 22.22,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            639.5,
+            313.8,
+            673.5,
+            383.8
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 26.21,
+          "pitch_y": 33.28,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            543.4,
+            437.2,
+            577.4,
+            507.2
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.43,
+          "pitch_y": 32.92,
+          "speed_kmh": 5.2,
+          "bbox_px": [
+            456.1,
+            433.0,
+            490.1,
+            503.0
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.28,
+          "pitch_y": 40.69,
+          "speed_kmh": 4.7,
+          "bbox_px": [
+            347.6,
+            525.0,
+            381.6,
+            595.0
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 43.75,
+          "pitch_y": 39.42,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            807.3,
+            509.7,
+            841.3,
+            579.7
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.42,
+          "pitch_y": 48.41,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            653.8,
+            621.3,
+            687.8,
+            691.3
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.04,
+          "pitch_y": 49.73,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            518.0,
+            638.2,
+            552.0,
+            708.2
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.67,
+          "pitch_y": 59.22,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            414.4,
+            764.9,
+            448.4,
+            834.9
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.47,
+          "pitch_y": 59.31,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            327.9,
+            766.1,
+            361.9,
+            836.1
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 67.52,
+        "pitch_y": 56.29,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 10,
+      "timestamp_sec": 0.4,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 63.43,
+          "pitch_y": 23.44,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1104.0,
+            327.0,
+            1138.0,
+            397.0
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.22,
+          "pitch_y": 22.15,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1246.9,
+            313.0,
+            1280.9,
+            383.0
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 80.09,
+          "pitch_y": 30.42,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            1358.6,
+            404.4,
+            1392.6,
+            474.4
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 86.01,
+          "pitch_y": 29.88,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            1446.8,
+            398.3,
+            1480.8,
+            468.3
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.92,
+          "pitch_y": 40.31,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            1540.7,
+            520.4,
+            1574.7,
+            590.4
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.26,
+          "pitch_y": 41.87,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            1064.3,
+            539.4,
+            1098.3,
+            609.4
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.3,
+          "pitch_y": 51.25,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1214.3,
+            658.0,
+            1248.3,
+            728.0
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.58,
+          "pitch_y": 50.5,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1363.1,
+            648.2,
+            1397.1,
+            718.2
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.31,
+          "pitch_y": 57.33,
+          "speed_kmh": 4.6,
+          "bbox_px": [
+            1484.3,
+            739.0,
+            1518.3,
+            809.0
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 91.03,
+          "pitch_y": 56.53,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1576.7,
+            728.1,
+            1610.7,
+            798.1
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.35,
+          "pitch_y": 20.52,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            765.7,
+            295.5,
+            799.7,
+            365.5
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.84,
+          "pitch_y": 22.28,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            639.8,
+            314.4,
+            673.8,
+            384.4
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 26.29,
+          "pitch_y": 33.3,
+          "speed_kmh": 7.0,
+          "bbox_px": [
+            544.5,
+            437.4,
+            578.5,
+            507.4
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.49,
+          "pitch_y": 32.88,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            457.0,
+            432.6,
+            491.0,
+            502.6
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.26,
+          "pitch_y": 40.64,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            347.4,
+            524.4,
+            381.4,
+            594.4
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 43.68,
+          "pitch_y": 39.41,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            806.2,
+            509.5,
+            840.2,
+            579.5
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.36,
+          "pitch_y": 48.44,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            652.9,
+            621.6,
+            686.9,
+            691.6
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.05,
+          "pitch_y": 49.77,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            518.0,
+            638.8,
+            552.0,
+            708.8
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.73,
+          "pitch_y": 59.25,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            415.3,
+            765.3,
+            449.3,
+            835.3
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.53,
+          "pitch_y": 59.28,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            328.9,
+            765.8,
+            362.9,
+            835.8
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 69.01,
+        "pitch_y": 55.9,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 11,
+      "timestamp_sec": 0.44,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 63.51,
+          "pitch_y": 23.43,
+          "speed_kmh": 7.3,
+          "bbox_px": [
+            1105.1,
+            326.8,
+            1139.1,
+            396.8
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.24,
+          "pitch_y": 22.09,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            1247.2,
+            312.3,
+            1281.2,
+            382.3
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 80.05,
+          "pitch_y": 30.37,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            1357.9,
+            403.9,
+            1391.9,
+            473.9
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 85.93,
+          "pitch_y": 29.89,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            1445.7,
+            398.4,
+            1479.7,
+            468.4
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.88,
+          "pitch_y": 40.35,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1540.2,
+            520.9,
+            1574.2,
+            590.9
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.29,
+          "pitch_y": 41.91,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1064.9,
+            539.9,
+            1098.9,
+            609.9
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.37,
+          "pitch_y": 51.25,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1215.4,
+            658.0,
+            1249.4,
+            728.0
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.62,
+          "pitch_y": 50.45,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1363.7,
+            647.6,
+            1397.7,
+            717.6
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.28,
+          "pitch_y": 57.29,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            1483.7,
+            738.4,
+            1517.7,
+            808.4
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.95,
+          "pitch_y": 56.53,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1575.5,
+            728.1,
+            1609.5,
+            798.1
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.31,
+          "pitch_y": 20.56,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            765.0,
+            296.0,
+            799.0,
+            366.0
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.87,
+          "pitch_y": 22.34,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            640.2,
+            315.0,
+            674.2,
+            385.0
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 26.36,
+          "pitch_y": 33.31,
+          "speed_kmh": 6.9,
+          "bbox_px": [
+            545.6,
+            437.5,
+            579.6,
+            507.5
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.54,
+          "pitch_y": 32.84,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            457.8,
+            432.1,
+            491.8,
+            502.1
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.24,
+          "pitch_y": 40.58,
+          "speed_kmh": 5.3,
+          "bbox_px": [
+            347.2,
+            523.7,
+            381.2,
+            593.7
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 43.62,
+          "pitch_y": 39.39,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            805.2,
+            509.3,
+            839.2,
+            579.3
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.31,
+          "pitch_y": 48.47,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            652.0,
+            622.0,
+            686.0,
+            692.0
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.06,
+          "pitch_y": 49.83,
+          "speed_kmh": 4.6,
+          "bbox_px": [
+            518.1,
+            639.5,
+            552.1,
+            709.5
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.79,
+          "pitch_y": 59.27,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            416.3,
+            765.6,
+            450.3,
+            835.6
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.59,
+          "pitch_y": 59.26,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            329.9,
+            765.5,
+            363.9,
+            835.5
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 70.46,
+        "pitch_y": 55.48,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 12,
+      "timestamp_sec": 0.48,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 63.57,
+          "pitch_y": 23.4,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            1106.1,
+            326.5,
+            1140.1,
+            396.5
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.26,
+          "pitch_y": 22.03,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            1247.4,
+            311.7,
+            1281.4,
+            381.7
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 80.0,
+          "pitch_y": 30.34,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1357.1,
+            403.5,
+            1391.1,
+            473.5
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 85.86,
+          "pitch_y": 29.9,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            1444.6,
+            398.6,
+            1478.6,
+            468.6
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.85,
+          "pitch_y": 40.4,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1539.9,
+            521.5,
+            1573.9,
+            591.5
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.34,
+          "pitch_y": 41.95,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1065.6,
+            540.4,
+            1099.6,
+            610.4
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.44,
+          "pitch_y": 51.24,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1216.5,
+            657.9,
+            1250.5,
+            727.9
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.66,
+          "pitch_y": 50.41,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1364.2,
+            647.1,
+            1398.2,
+            717.1
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.26,
+          "pitch_y": 57.25,
+          "speed_kmh": 4.2,
+          "bbox_px": [
+            1483.2,
+            737.9,
+            1517.2,
+            807.9
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.89,
+          "pitch_y": 56.52,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1574.4,
+            728.0,
+            1608.4,
+            798.0
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.26,
+          "pitch_y": 20.61,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            764.3,
+            296.5,
+            798.3,
+            366.5
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.9,
+          "pitch_y": 22.39,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            640.6,
+            315.6,
+            674.6,
+            385.6
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 26.44,
+          "pitch_y": 33.32,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            546.7,
+            437.7,
+            580.7,
+            507.7
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.58,
+          "pitch_y": 32.8,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            458.5,
+            431.7,
+            492.5,
+            501.7
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.22,
+          "pitch_y": 40.53,
+          "speed_kmh": 5.3,
+          "bbox_px": [
+            346.9,
+            523.1,
+            380.9,
+            593.1
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 43.54,
+          "pitch_y": 39.36,
+          "speed_kmh": 6.7,
+          "bbox_px": [
+            804.1,
+            509.0,
+            838.1,
+            579.0
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.25,
+          "pitch_y": 48.5,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            651.1,
+            622.4,
+            685.1,
+            692.4
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.07,
+          "pitch_y": 49.87,
+          "speed_kmh": 4.6,
+          "bbox_px": [
+            518.2,
+            640.1,
+            552.2,
+            710.1
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.85,
+          "pitch_y": 59.29,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            417.3,
+            765.9,
+            451.3,
+            835.9
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.64,
+          "pitch_y": 59.24,
+          "speed_kmh": 5.3,
+          "bbox_px": [
+            330.8,
+            765.2,
+            364.8,
+            835.2
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 71.84,
+        "pitch_y": 55.02,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 13,
+      "timestamp_sec": 0.52,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 63.64,
+          "pitch_y": 23.38,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1107.1,
+            326.3,
+            1141.1,
+            396.3
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.27,
+          "pitch_y": 21.97,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1247.6,
+            311.1,
+            1281.6,
+            381.1
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.94,
+          "pitch_y": 30.29,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1356.2,
+            403.0,
+            1390.2,
+            473.0
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 85.78,
+          "pitch_y": 29.91,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            1443.5,
+            398.7,
+            1477.5,
+            468.7
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.82,
+          "pitch_y": 40.46,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1539.5,
+            522.2,
+            1573.5,
+            592.2
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.38,
+          "pitch_y": 41.99,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1066.3,
+            540.9,
+            1100.3,
+            610.9
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.51,
+          "pitch_y": 51.24,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1217.6,
+            657.8,
+            1251.6,
+            727.8
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.69,
+          "pitch_y": 50.37,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            1364.7,
+            646.5,
+            1398.7,
+            716.5
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.23,
+          "pitch_y": 57.2,
+          "speed_kmh": 4.6,
+          "bbox_px": [
+            1482.6,
+            737.3,
+            1516.6,
+            807.3
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.82,
+          "pitch_y": 56.52,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1573.3,
+            728.0,
+            1607.3,
+            798.0
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.22,
+          "pitch_y": 20.66,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            763.7,
+            297.0,
+            797.7,
+            367.0
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.93,
+          "pitch_y": 22.45,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            641.0,
+            316.2,
+            675.0,
+            386.2
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 26.51,
+          "pitch_y": 33.33,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            547.8,
+            437.8,
+            581.8,
+            507.8
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.63,
+          "pitch_y": 32.76,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            459.3,
+            431.2,
+            493.3,
+            501.2
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.19,
+          "pitch_y": 40.48,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            346.6,
+            522.5,
+            380.6,
+            592.5
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 43.48,
+          "pitch_y": 39.35,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            803.1,
+            508.8,
+            837.1,
+            578.8
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.2,
+          "pitch_y": 48.53,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            650.2,
+            622.8,
+            684.2,
+            692.8
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.08,
+          "pitch_y": 49.92,
+          "speed_kmh": 4.1,
+          "bbox_px": [
+            518.3,
+            640.7,
+            552.3,
+            710.7
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.91,
+          "pitch_y": 59.31,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            418.3,
+            766.1,
+            452.3,
+            836.1
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.7,
+          "pitch_y": 59.22,
+          "speed_kmh": 5.3,
+          "bbox_px": [
+            331.8,
+            764.9,
+            365.8,
+            834.9
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 73.17,
+        "pitch_y": 54.52,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 14,
+      "timestamp_sec": 0.56,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 63.72,
+          "pitch_y": 23.35,
+          "speed_kmh": 7.1,
+          "bbox_px": [
+            1108.2,
+            326.0,
+            1142.2,
+            396.0
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.29,
+          "pitch_y": 21.91,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1247.7,
+            310.4,
+            1281.7,
+            380.4
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.89,
+          "pitch_y": 30.26,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1355.4,
+            402.6,
+            1389.4,
+            472.6
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 85.71,
+          "pitch_y": 29.93,
+          "speed_kmh": 6.9,
+          "bbox_px": [
+            1442.4,
+            398.9,
+            1476.4,
+            468.9
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.79,
+          "pitch_y": 40.51,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1539.2,
+            522.8,
+            1573.2,
+            592.8
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.43,
+          "pitch_y": 42.03,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1067.1,
+            541.4,
+            1101.1,
+            611.4
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.57,
+          "pitch_y": 51.23,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1218.7,
+            657.7,
+            1252.7,
+            727.7
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.73,
+          "pitch_y": 50.32,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1365.2,
+            645.9,
+            1399.2,
+            715.9
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.19,
+          "pitch_y": 57.17,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            1482.0,
+            736.8,
+            1516.0,
+            806.8
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.75,
+          "pitch_y": 56.52,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1572.2,
+            728.0,
+            1606.2,
+            798.0
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.18,
+          "pitch_y": 20.71,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            763.1,
+            297.6,
+            797.1,
+            367.6
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 31.97,
+          "pitch_y": 22.49,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            641.5,
+            316.7,
+            675.5,
+            386.7
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 26.58,
+          "pitch_y": 33.34,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            548.9,
+            437.9,
+            582.9,
+            507.9
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.67,
+          "pitch_y": 32.72,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            460.0,
+            430.7,
+            494.0,
+            500.7
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.16,
+          "pitch_y": 40.43,
+          "speed_kmh": 5.2,
+          "bbox_px": [
+            346.3,
+            521.9,
+            380.3,
+            591.9
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 43.41,
+          "pitch_y": 39.34,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            802.0,
+            508.7,
+            836.0,
+            578.7
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.15,
+          "pitch_y": 48.56,
+          "speed_kmh": 5.2,
+          "bbox_px": [
+            649.4,
+            623.2,
+            683.4,
+            693.2
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.1,
+          "pitch_y": 49.97,
+          "speed_kmh": 4.7,
+          "bbox_px": [
+            518.5,
+            641.4,
+            552.5,
+            711.4
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 20.98,
+          "pitch_y": 59.33,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            419.3,
+            766.4,
+            453.3,
+            836.4
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.75,
+          "pitch_y": 59.19,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            332.7,
+            764.5,
+            366.7,
+            834.5
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 74.42,
+        "pitch_y": 53.99,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 15,
+      "timestamp_sec": 0.6,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 63.79,
+          "pitch_y": 23.33,
+          "speed_kmh": 7.1,
+          "bbox_px": [
+            1109.2,
+            325.7,
+            1143.2,
+            395.7
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.3,
+          "pitch_y": 21.85,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1247.9,
+            309.8,
+            1281.9,
+            379.8
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.84,
+          "pitch_y": 30.22,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            1354.5,
+            402.2,
+            1388.5,
+            472.2
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 85.64,
+          "pitch_y": 29.95,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            1441.4,
+            399.1,
+            1475.4,
+            469.1
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.77,
+          "pitch_y": 40.56,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            1538.9,
+            523.4,
+            1572.9,
+            593.4
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.47,
+          "pitch_y": 42.07,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1067.8,
+            541.9,
+            1101.8,
+            611.9
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.64,
+          "pitch_y": 51.22,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1219.8,
+            657.6,
+            1253.8,
+            727.6
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.76,
+          "pitch_y": 50.28,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1365.6,
+            645.3,
+            1399.6,
+            715.3
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.16,
+          "pitch_y": 57.13,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            1481.4,
+            736.3,
+            1515.4,
+            806.3
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.69,
+          "pitch_y": 56.52,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            1571.1,
+            728.0,
+            1605.1,
+            798.0
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.14,
+          "pitch_y": 20.76,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            762.5,
+            298.1,
+            796.5,
+            368.1
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.01,
+          "pitch_y": 22.55,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            642.0,
+            317.3,
+            676.0,
+            387.3
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 26.65,
+          "pitch_y": 33.34,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            550.0,
+            437.9,
+            584.0,
+            507.9
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.71,
+          "pitch_y": 32.67,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            460.7,
+            430.2,
+            494.7,
+            500.2
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.14,
+          "pitch_y": 40.38,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            346.0,
+            521.3,
+            380.0,
+            591.3
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 43.34,
+          "pitch_y": 39.32,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            800.9,
+            508.5,
+            834.9,
+            578.5
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.1,
+          "pitch_y": 48.6,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            648.6,
+            623.7,
+            682.6,
+            693.7
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.11,
+          "pitch_y": 50.02,
+          "speed_kmh": 4.7,
+          "bbox_px": [
+            518.7,
+            642.0,
+            552.7,
+            712.0
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.04,
+          "pitch_y": 59.34,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            420.4,
+            766.6,
+            454.4,
+            836.6
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.8,
+          "pitch_y": 59.17,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            333.6,
+            764.2,
+            367.6,
+            834.2
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 75.61,
+        "pitch_y": 53.44,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 16,
+      "timestamp_sec": 0.64,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 63.85,
+          "pitch_y": 23.3,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1110.1,
+            325.4,
+            1144.1,
+            395.4
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.31,
+          "pitch_y": 21.8,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            1247.9,
+            309.2,
+            1281.9,
+            379.2
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.78,
+          "pitch_y": 30.19,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1353.6,
+            401.8,
+            1387.6,
+            471.8
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 85.56,
+          "pitch_y": 29.98,
+          "speed_kmh": 7.1,
+          "bbox_px": [
+            1440.3,
+            399.4,
+            1474.3,
+            469.4
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.75,
+          "pitch_y": 40.61,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            1538.7,
+            524.0,
+            1572.7,
+            594.0
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.52,
+          "pitch_y": 42.11,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1068.6,
+            542.3,
+            1102.6,
+            612.3
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.71,
+          "pitch_y": 51.21,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1220.9,
+            657.5,
+            1254.9,
+            727.5
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.79,
+          "pitch_y": 50.23,
+          "speed_kmh": 4.9,
+          "bbox_px": [
+            1366.0,
+            644.7,
+            1400.0,
+            714.7
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.12,
+          "pitch_y": 57.09,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            1480.7,
+            735.8,
+            1514.7,
+            805.8
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.62,
+          "pitch_y": 56.53,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1570.0,
+            728.1,
+            1604.0,
+            798.1
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.11,
+          "pitch_y": 20.82,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            762.0,
+            298.7,
+            796.0,
+            368.7
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.05,
+          "pitch_y": 22.6,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            642.6,
+            317.9,
+            676.6,
+            387.9
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 26.73,
+          "pitch_y": 33.35,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            551.1,
+            438.0,
+            585.1,
+            508.0
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.75,
+          "pitch_y": 32.63,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            461.4,
+            429.7,
+            495.4,
+            499.7
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.11,
+          "pitch_y": 40.33,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            345.6,
+            520.7,
+            379.6,
+            590.7
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 43.27,
+          "pitch_y": 39.31,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            799.8,
+            508.4,
+            833.8,
+            578.4
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.05,
+          "pitch_y": 48.63,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            647.8,
+            624.1,
+            681.8,
+            694.1
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.13,
+          "pitch_y": 50.07,
+          "speed_kmh": 4.7,
+          "bbox_px": [
+            518.9,
+            642.6,
+            552.9,
+            712.6
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.11,
+          "pitch_y": 59.36,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            421.4,
+            766.9,
+            455.4,
+            836.9
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.85,
+          "pitch_y": 59.14,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            334.5,
+            763.8,
+            368.5,
+            833.8
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 76.72,
+        "pitch_y": 52.85,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 17,
+      "timestamp_sec": 0.68,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 63.92,
+          "pitch_y": 23.27,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1111.1,
+            325.1,
+            1145.1,
+            395.1
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.32,
+          "pitch_y": 21.73,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            1248.0,
+            308.5,
+            1282.0,
+            378.5
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.72,
+          "pitch_y": 30.16,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            1352.7,
+            401.5,
+            1386.7,
+            471.5
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 85.5,
+          "pitch_y": 29.99,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            1439.3,
+            399.6,
+            1473.3,
+            469.6
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.73,
+          "pitch_y": 40.65,
+          "speed_kmh": 4.4,
+          "bbox_px": [
+            1538.5,
+            524.6,
+            1572.5,
+            594.6
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.57,
+          "pitch_y": 42.15,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            1069.4,
+            542.8,
+            1103.4,
+            612.8
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.78,
+          "pitch_y": 51.2,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1222.0,
+            657.3,
+            1256.0,
+            727.3
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.81,
+          "pitch_y": 50.18,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            1366.3,
+            644.1,
+            1400.3,
+            714.1
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.09,
+          "pitch_y": 57.06,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            1480.0,
+            735.3,
+            1514.0,
+            805.3
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.54,
+          "pitch_y": 56.53,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            1568.8,
+            728.1,
+            1602.8,
+            798.1
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.08,
+          "pitch_y": 20.87,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            761.5,
+            299.3,
+            795.5,
+            369.3
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.09,
+          "pitch_y": 22.65,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            643.1,
+            318.4,
+            677.1,
+            388.4
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 26.8,
+          "pitch_y": 33.35,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            552.2,
+            438.0,
+            586.2,
+            508.0
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.79,
+          "pitch_y": 32.59,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            462.0,
+            429.2,
+            496.0,
+            499.2
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.07,
+          "pitch_y": 40.28,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            345.1,
+            520.1,
+            379.1,
+            590.1
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 43.19,
+          "pitch_y": 39.31,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            798.7,
+            508.3,
+            832.7,
+            578.3
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 34.01,
+          "pitch_y": 48.67,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            647.0,
+            624.6,
+            681.0,
+            694.6
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.15,
+          "pitch_y": 50.11,
+          "speed_kmh": 4.4,
+          "bbox_px": [
+            519.2,
+            643.2,
+            553.2,
+            713.2
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.18,
+          "pitch_y": 59.38,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            422.5,
+            767.1,
+            456.5,
+            837.1
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.9,
+          "pitch_y": 59.11,
+          "speed_kmh": 5.2,
+          "bbox_px": [
+            335.4,
+            763.4,
+            369.4,
+            833.4
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 77.74,
+        "pitch_y": 52.23,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 18,
+      "timestamp_sec": 0.72,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 63.99,
+          "pitch_y": 23.24,
+          "speed_kmh": 6.9,
+          "bbox_px": [
+            1112.1,
+            324.8,
+            1146.1,
+            394.8
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.32,
+          "pitch_y": 21.68,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1248.0,
+            307.9,
+            1282.0,
+            377.9
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.67,
+          "pitch_y": 30.13,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1351.8,
+            401.1,
+            1385.8,
+            471.1
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 85.43,
+          "pitch_y": 30.02,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1438.3,
+            399.9,
+            1472.3,
+            469.9
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.71,
+          "pitch_y": 40.71,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            1538.3,
+            525.3,
+            1572.3,
+            595.3
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.63,
+          "pitch_y": 42.18,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1070.3,
+            543.2,
+            1104.3,
+            613.2
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.85,
+          "pitch_y": 51.18,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1223.1,
+            657.1,
+            1257.1,
+            727.1
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.84,
+          "pitch_y": 50.14,
+          "speed_kmh": 4.6,
+          "bbox_px": [
+            1366.7,
+            643.5,
+            1400.7,
+            713.5
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.05,
+          "pitch_y": 57.02,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            1479.3,
+            734.8,
+            1513.3,
+            804.8
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.48,
+          "pitch_y": 56.53,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1567.7,
+            728.2,
+            1601.7,
+            798.2
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.05,
+          "pitch_y": 20.93,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            761.0,
+            299.9,
+            795.0,
+            369.9
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.13,
+          "pitch_y": 22.71,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            643.7,
+            319.0,
+            677.7,
+            389.0
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 26.87,
+          "pitch_y": 33.35,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            553.3,
+            438.0,
+            587.3,
+            508.0
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.82,
+          "pitch_y": 32.53,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            462.6,
+            428.6,
+            496.6,
+            498.6
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.04,
+          "pitch_y": 40.23,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            344.7,
+            519.5,
+            378.7,
+            589.5
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 43.12,
+          "pitch_y": 39.3,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            797.6,
+            508.2,
+            831.6,
+            578.2
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 33.97,
+          "pitch_y": 48.71,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            646.3,
+            625.1,
+            680.3,
+            695.1
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.18,
+          "pitch_y": 50.17,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            519.5,
+            643.9,
+            553.5,
+            713.9
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.24,
+          "pitch_y": 59.39,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            423.5,
+            767.3,
+            457.5,
+            837.3
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.94,
+          "pitch_y": 59.08,
+          "speed_kmh": 4.9,
+          "bbox_px": [
+            336.2,
+            763.0,
+            370.2,
+            833.0
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 78.69,
+        "pitch_y": 51.59,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 19,
+      "timestamp_sec": 0.76,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 64.05,
+          "pitch_y": 23.21,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1113.0,
+            324.4,
+            1147.0,
+            394.4
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.33,
+          "pitch_y": 21.62,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            1248.0,
+            307.3,
+            1282.0,
+            377.3
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.6,
+          "pitch_y": 30.1,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            1350.8,
+            400.8,
+            1384.8,
+            470.8
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 85.36,
+          "pitch_y": 30.04,
+          "speed_kmh": 6.7,
+          "bbox_px": [
+            1437.3,
+            400.1,
+            1471.3,
+            470.1
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.7,
+          "pitch_y": 40.76,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1538.2,
+            525.9,
+            1572.2,
+            595.9
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.68,
+          "pitch_y": 42.21,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1071.1,
+            543.6,
+            1105.1,
+            613.6
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.92,
+          "pitch_y": 51.18,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1224.2,
+            657.0,
+            1258.2,
+            727.0
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.86,
+          "pitch_y": 50.09,
+          "speed_kmh": 4.6,
+          "bbox_px": [
+            1366.9,
+            642.9,
+            1400.9,
+            712.9
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 85.0,
+          "pitch_y": 56.98,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1478.5,
+            734.3,
+            1512.5,
+            804.3
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.41,
+          "pitch_y": 56.54,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1566.6,
+            728.3,
+            1600.6,
+            798.3
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.02,
+          "pitch_y": 20.98,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            760.6,
+            300.4,
+            794.6,
+            370.4
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.18,
+          "pitch_y": 22.75,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            644.4,
+            319.5,
+            678.4,
+            389.5
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 26.95,
+          "pitch_y": 33.35,
+          "speed_kmh": 6.7,
+          "bbox_px": [
+            554.5,
+            438.0,
+            588.5,
+            508.0
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.86,
+          "pitch_y": 32.49,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            463.2,
+            428.1,
+            497.2,
+            498.1
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 14.0,
+          "pitch_y": 40.18,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            344.2,
+            518.9,
+            378.2,
+            588.9
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 43.05,
+          "pitch_y": 39.29,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            796.5,
+            508.1,
+            830.5,
+            578.1
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 33.92,
+          "pitch_y": 48.75,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            645.6,
+            625.6,
+            679.6,
+            695.6
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.21,
+          "pitch_y": 50.21,
+          "speed_kmh": 5.2,
+          "bbox_px": [
+            519.9,
+            644.5,
+            553.9,
+            714.5
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.3,
+          "pitch_y": 59.4,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            424.6,
+            767.4,
+            458.6,
+            837.4
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 15.99,
+          "pitch_y": 59.04,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            337.1,
+            762.5,
+            371.1,
+            832.5
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 79.54,
+        "pitch_y": 50.92,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 20,
+      "timestamp_sec": 0.8,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 64.11,
+          "pitch_y": 23.17,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1113.9,
+            324.0,
+            1147.9,
+            394.0
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.32,
+          "pitch_y": 21.55,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            1247.9,
+            306.6,
+            1281.9,
+            376.6
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.54,
+          "pitch_y": 30.07,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1349.8,
+            400.5,
+            1383.8,
+            470.5
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 85.29,
+          "pitch_y": 30.06,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            1436.3,
+            400.4,
+            1470.3,
+            470.4
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.68,
+          "pitch_y": 40.82,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1538.1,
+            526.6,
+            1572.1,
+            596.6
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.74,
+          "pitch_y": 42.24,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1072.0,
+            544.0,
+            1106.0,
+            614.0
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 69.98,
+          "pitch_y": 51.15,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            1225.2,
+            656.7,
+            1259.2,
+            726.7
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.88,
+          "pitch_y": 50.04,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            1367.2,
+            642.2,
+            1401.2,
+            712.2
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 84.96,
+          "pitch_y": 56.95,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1477.7,
+            733.8,
+            1511.7,
+            803.8
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.34,
+          "pitch_y": 56.56,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1565.5,
+            728.5,
+            1599.5,
+            798.5
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 40.0,
+          "pitch_y": 21.03,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            760.2,
+            301.0,
+            794.2,
+            371.0
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.23,
+          "pitch_y": 22.8,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            645.0,
+            320.0,
+            679.0,
+            390.0
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 27.02,
+          "pitch_y": 33.34,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            555.6,
+            437.9,
+            589.6,
+            507.9
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.89,
+          "pitch_y": 32.44,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            463.8,
+            427.5,
+            497.8,
+            497.5
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 13.96,
+          "pitch_y": 40.14,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            343.7,
+            518.4,
+            377.7,
+            588.4
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 42.98,
+          "pitch_y": 39.28,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            795.4,
+            508.0,
+            829.4,
+            578.0
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 33.88,
+          "pitch_y": 48.79,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            644.9,
+            626.1,
+            678.9,
+            696.1
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.23,
+          "pitch_y": 50.26,
+          "speed_kmh": 4.6,
+          "bbox_px": [
+            520.3,
+            645.1,
+            554.3,
+            715.1
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.37,
+          "pitch_y": 59.41,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            425.7,
+            767.6,
+            459.7,
+            837.6
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 16.04,
+          "pitch_y": 59.02,
+          "speed_kmh": 5.2,
+          "bbox_px": [
+            337.9,
+            762.1,
+            371.9,
+            832.1
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 80.3,
+        "pitch_y": 50.23,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 21,
+      "timestamp_sec": 0.84,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 64.17,
+          "pitch_y": 23.14,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1114.8,
+            323.7,
+            1148.8,
+            393.7
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.32,
+          "pitch_y": 21.5,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1247.8,
+            306.0,
+            1281.8,
+            376.0
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.47,
+          "pitch_y": 30.05,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1348.8,
+            400.2,
+            1382.8,
+            470.2
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 85.22,
+          "pitch_y": 30.09,
+          "speed_kmh": 6.7,
+          "bbox_px": [
+            1435.3,
+            400.7,
+            1469.3,
+            470.7
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.67,
+          "pitch_y": 40.87,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1538.0,
+            527.2,
+            1572.0,
+            597.2
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.79,
+          "pitch_y": 42.28,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1072.9,
+            544.4,
+            1106.9,
+            614.4
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 70.05,
+          "pitch_y": 51.14,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1226.3,
+            656.5,
+            1260.3,
+            726.5
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.9,
+          "pitch_y": 49.99,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            1367.4,
+            641.6,
+            1401.4,
+            711.6
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 84.91,
+          "pitch_y": 56.92,
+          "speed_kmh": 4.9,
+          "bbox_px": [
+            1476.9,
+            733.4,
+            1510.9,
+            803.4
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.27,
+          "pitch_y": 56.56,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1564.4,
+            728.6,
+            1598.4,
+            798.6
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 39.97,
+          "pitch_y": 21.09,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            759.8,
+            301.6,
+            793.8,
+            371.6
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.28,
+          "pitch_y": 22.85,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            645.7,
+            320.5,
+            679.7,
+            390.5
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 27.09,
+          "pitch_y": 33.34,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            556.7,
+            437.9,
+            590.7,
+            507.9
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.92,
+          "pitch_y": 32.39,
+          "speed_kmh": 5.2,
+          "bbox_px": [
+            464.3,
+            427.0,
+            498.3,
+            497.0
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 13.92,
+          "pitch_y": 40.09,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            343.1,
+            517.8,
+            377.1,
+            587.8
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 42.91,
+          "pitch_y": 39.28,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            794.3,
+            508.0,
+            828.3,
+            578.0
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 33.84,
+          "pitch_y": 48.83,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            644.2,
+            626.6,
+            678.2,
+            696.6
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.26,
+          "pitch_y": 50.31,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            520.7,
+            645.7,
+            554.7,
+            715.7
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.44,
+          "pitch_y": 59.42,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            426.8,
+            767.7,
+            460.8,
+            837.7
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 16.07,
+          "pitch_y": 58.98,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            338.6,
+            761.6,
+            372.6,
+            831.6
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 80.97,
+        "pitch_y": 49.52,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 22,
+      "timestamp_sec": 0.88,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 64.24,
+          "pitch_y": 23.09,
+          "speed_kmh": 6.9,
+          "bbox_px": [
+            1115.7,
+            323.2,
+            1149.7,
+            393.2
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.32,
+          "pitch_y": 21.43,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1247.7,
+            305.3,
+            1281.7,
+            375.3
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.41,
+          "pitch_y": 30.02,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1347.8,
+            399.9,
+            1381.8,
+            469.9
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 85.15,
+          "pitch_y": 30.13,
+          "speed_kmh": 7.0,
+          "bbox_px": [
+            1434.3,
+            401.1,
+            1468.3,
+            471.1
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.66,
+          "pitch_y": 40.92,
+          "speed_kmh": 4.6,
+          "bbox_px": [
+            1538.0,
+            527.8,
+            1572.0,
+            597.8
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.85,
+          "pitch_y": 42.3,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1073.8,
+            544.7,
+            1107.8,
+            614.7
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 70.11,
+          "pitch_y": 51.12,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            1227.3,
+            656.3,
+            1261.3,
+            726.3
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.91,
+          "pitch_y": 49.94,
+          "speed_kmh": 4.7,
+          "bbox_px": [
+            1367.6,
+            641.0,
+            1401.6,
+            711.0
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 84.87,
+          "pitch_y": 56.89,
+          "speed_kmh": 4.9,
+          "bbox_px": [
+            1476.1,
+            733.0,
+            1510.1,
+            803.0
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.21,
+          "pitch_y": 56.58,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1563.4,
+            728.8,
+            1597.4,
+            798.8
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 39.95,
+          "pitch_y": 21.15,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            759.5,
+            302.3,
+            793.5,
+            372.3
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.33,
+          "pitch_y": 22.89,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            646.4,
+            321.0,
+            680.4,
+            391.0
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 27.17,
+          "pitch_y": 33.33,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            557.8,
+            437.8,
+            591.8,
+            507.8
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.95,
+          "pitch_y": 32.34,
+          "speed_kmh": 5.2,
+          "bbox_px": [
+            464.8,
+            426.4,
+            498.8,
+            496.4
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 13.87,
+          "pitch_y": 40.05,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            342.5,
+            517.3,
+            376.5,
+            587.3
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 42.83,
+          "pitch_y": 39.28,
+          "speed_kmh": 6.7,
+          "bbox_px": [
+            793.1,
+            508.0,
+            827.1,
+            578.0
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 33.81,
+          "pitch_y": 48.87,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            643.6,
+            627.1,
+            677.6,
+            697.1
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.29,
+          "pitch_y": 50.35,
+          "speed_kmh": 4.9,
+          "bbox_px": [
+            521.1,
+            646.3,
+            555.1,
+            716.3
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.51,
+          "pitch_y": 59.43,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            427.9,
+            767.8,
+            461.9,
+            837.8
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 16.12,
+          "pitch_y": 58.94,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            339.4,
+            761.1,
+            373.4,
+            831.1
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 81.54,
+        "pitch_y": 48.8,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 23,
+      "timestamp_sec": 0.92,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 64.29,
+          "pitch_y": 23.06,
+          "speed_kmh": 6.5,
+          "bbox_px": [
+            1116.5,
+            322.8,
+            1150.5,
+            392.8
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.31,
+          "pitch_y": 21.38,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1247.5,
+            304.7,
+            1281.5,
+            374.7
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.35,
+          "pitch_y": 29.99,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            1346.8,
+            399.6,
+            1380.8,
+            469.6
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 85.09,
+          "pitch_y": 30.15,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1433.4,
+            401.4,
+            1467.4,
+            471.4
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.66,
+          "pitch_y": 40.98,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            1538.0,
+            528.5,
+            1572.0,
+            598.5
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.91,
+          "pitch_y": 42.33,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            1074.8,
+            545.1,
+            1108.8,
+            615.1
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 70.18,
+          "pitch_y": 51.1,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1228.3,
+            656.0,
+            1262.3,
+            726.0
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.93,
+          "pitch_y": 49.9,
+          "speed_kmh": 4.3,
+          "bbox_px": [
+            1367.8,
+            640.4,
+            1401.8,
+            710.4
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 84.82,
+          "pitch_y": 56.86,
+          "speed_kmh": 4.9,
+          "bbox_px": [
+            1475.2,
+            732.6,
+            1509.2,
+            802.6
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.14,
+          "pitch_y": 56.59,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            1562.3,
+            729.0,
+            1596.3,
+            799.0
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 39.93,
+          "pitch_y": 21.21,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            759.2,
+            302.9,
+            793.2,
+            372.9
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.39,
+          "pitch_y": 22.94,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            647.2,
+            321.5,
+            681.2,
+            391.5
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 27.24,
+          "pitch_y": 33.32,
+          "speed_kmh": 6.8,
+          "bbox_px": [
+            558.9,
+            437.7,
+            592.9,
+            507.7
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.97,
+          "pitch_y": 32.29,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            465.2,
+            425.8,
+            499.2,
+            495.8
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 13.83,
+          "pitch_y": 40.0,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            341.9,
+            516.7,
+            375.9,
+            586.7
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 42.76,
+          "pitch_y": 39.28,
+          "speed_kmh": 6.7,
+          "bbox_px": [
+            792.0,
+            508.0,
+            826.0,
+            578.0
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 33.77,
+          "pitch_y": 48.91,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            643.0,
+            627.7,
+            677.0,
+            697.7
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.33,
+          "pitch_y": 50.39,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            521.6,
+            646.8,
+            555.6,
+            716.8
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.57,
+          "pitch_y": 59.44,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            429.0,
+            767.9,
+            463.0,
+            837.9
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 16.16,
+          "pitch_y": 58.91,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            340.1,
+            760.6,
+            374.1,
+            830.6
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 82.01,
+        "pitch_y": 48.05,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 24,
+      "timestamp_sec": 0.96,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 64.35,
+          "pitch_y": 23.02,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1117.3,
+            322.4,
+            1151.3,
+            392.4
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.3,
+          "pitch_y": 21.32,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            1247.3,
+            304.1,
+            1281.3,
+            374.1
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.28,
+          "pitch_y": 29.98,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1345.8,
+            399.4,
+            1379.8,
+            469.4
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 85.02,
+          "pitch_y": 30.19,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1432.5,
+            401.8,
+            1466.5,
+            471.8
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.66,
+          "pitch_y": 41.02,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            1538.1,
+            529.1,
+            1572.1,
+            599.1
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 60.98,
+          "pitch_y": 42.36,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1075.8,
+            545.4,
+            1109.8,
+            615.4
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 70.24,
+          "pitch_y": 51.08,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1229.3,
+            655.7,
+            1263.3,
+            725.7
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.94,
+          "pitch_y": 49.84,
+          "speed_kmh": 4.7,
+          "bbox_px": [
+            1367.9,
+            639.7,
+            1401.9,
+            709.7
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 84.77,
+          "pitch_y": 56.83,
+          "speed_kmh": 5.2,
+          "bbox_px": [
+            1474.4,
+            732.2,
+            1508.4,
+            802.2
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.07,
+          "pitch_y": 56.61,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1561.2,
+            729.2,
+            1595.2,
+            799.2
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 39.92,
+          "pitch_y": 21.27,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            758.9,
+            303.5,
+            792.9,
+            373.5
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.44,
+          "pitch_y": 22.98,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            647.9,
+            322.0,
+            681.9,
+            392.0
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 27.31,
+          "pitch_y": 33.31,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            560.0,
+            437.6,
+            594.0,
+            507.6
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 20.99,
+          "pitch_y": 32.24,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            465.6,
+            425.2,
+            499.6,
+            495.2
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 13.78,
+          "pitch_y": 39.96,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            341.3,
+            516.2,
+            375.3,
+            586.2
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 42.69,
+          "pitch_y": 39.28,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            790.9,
+            508.0,
+            824.9,
+            578.0
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 33.74,
+          "pitch_y": 48.95,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            642.5,
+            628.2,
+            676.5,
+            698.2
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.36,
+          "pitch_y": 50.44,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            522.1,
+            647.4,
+            556.1,
+            717.4
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.64,
+          "pitch_y": 59.44,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            430.1,
+            767.9,
+            464.1,
+            837.9
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 16.19,
+          "pitch_y": 58.87,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            340.8,
+            760.1,
+            374.8,
+            830.1
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 82.37,
+        "pitch_y": 47.3,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 25,
+      "timestamp_sec": 1.0,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 64.4,
+          "pitch_y": 22.97,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1118.1,
+            321.9,
+            1152.1,
+            391.9
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.29,
+          "pitch_y": 21.27,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            1247.1,
+            303.5,
+            1281.1,
+            373.5
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.21,
+          "pitch_y": 29.96,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1344.7,
+            399.2,
+            1378.7,
+            469.2
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 84.96,
+          "pitch_y": 30.22,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            1431.6,
+            402.2,
+            1465.6,
+            472.2
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.65,
+          "pitch_y": 41.07,
+          "speed_kmh": 4.1,
+          "bbox_px": [
+            1538.1,
+            529.7,
+            1572.1,
+            599.7
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 61.03,
+          "pitch_y": 42.38,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1076.7,
+            545.7,
+            1110.7,
+            615.7
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 70.3,
+          "pitch_y": 51.05,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            1230.3,
+            655.4,
+            1264.3,
+            725.4
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.94,
+          "pitch_y": 49.8,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            1367.9,
+            639.1,
+            1401.9,
+            709.1
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 84.72,
+          "pitch_y": 56.8,
+          "speed_kmh": 5.2,
+          "bbox_px": [
+            1473.5,
+            731.8,
+            1507.5,
+            801.8
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 90.01,
+          "pitch_y": 56.62,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            1560.2,
+            729.4,
+            1594.2,
+            799.4
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 39.9,
+          "pitch_y": 21.32,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            758.7,
+            304.1,
+            792.7,
+            374.1
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.49,
+          "pitch_y": 23.02,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            648.7,
+            322.4,
+            682.7,
+            392.4
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 27.38,
+          "pitch_y": 33.31,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            561.1,
+            437.5,
+            595.1,
+            507.5
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 21.01,
+          "pitch_y": 32.19,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            466.0,
+            424.6,
+            500.0,
+            494.6
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 13.73,
+          "pitch_y": 39.92,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            340.6,
+            515.7,
+            374.6,
+            585.7
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 42.62,
+          "pitch_y": 39.29,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            789.8,
+            508.1,
+            823.8,
+            578.1
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 33.71,
+          "pitch_y": 49.0,
+          "speed_kmh": 4.9,
+          "bbox_px": [
+            641.9,
+            628.8,
+            675.9,
+            698.8
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.4,
+          "pitch_y": 50.48,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            522.6,
+            648.0,
+            556.6,
+            718.0
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.71,
+          "pitch_y": 59.44,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            431.3,
+            768.0,
+            465.3,
+            838.0
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 16.23,
+          "pitch_y": 58.83,
+          "speed_kmh": 4.8,
+          "bbox_px": [
+            341.5,
+            759.6,
+            375.5,
+            829.6
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 82.63,
+        "pitch_y": 46.54,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 26,
+      "timestamp_sec": 1.04,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 64.46,
+          "pitch_y": 22.94,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1118.9,
+            321.5,
+            1152.9,
+            391.5
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.27,
+          "pitch_y": 21.2,
+          "speed_kmh": 5.6,
+          "bbox_px": [
+            1246.8,
+            302.8,
+            1280.8,
+            372.8
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.14,
+          "pitch_y": 29.94,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            1343.7,
+            399.0,
+            1377.7,
+            469.0
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 84.9,
+          "pitch_y": 30.26,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1430.7,
+            402.6,
+            1464.7,
+            472.6
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.66,
+          "pitch_y": 41.13,
+          "speed_kmh": 4.9,
+          "bbox_px": [
+            1538.3,
+            530.4,
+            1572.3,
+            600.4
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 61.1,
+          "pitch_y": 42.41,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1077.7,
+            546.0,
+            1111.7,
+            616.0
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 70.37,
+          "pitch_y": 51.03,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1231.3,
+            655.1,
+            1265.3,
+            725.1
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.96,
+          "pitch_y": 49.74,
+          "speed_kmh": 4.6,
+          "bbox_px": [
+            1368.0,
+            638.4,
+            1402.0,
+            708.4
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 84.67,
+          "pitch_y": 56.77,
+          "speed_kmh": 5.2,
+          "bbox_px": [
+            1472.6,
+            731.4,
+            1506.6,
+            801.4
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 89.94,
+          "pitch_y": 56.64,
+          "speed_kmh": 6.0,
+          "bbox_px": [
+            1559.1,
+            729.6,
+            1593.1,
+            799.6
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 39.89,
+          "pitch_y": 21.38,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            758.5,
+            304.7,
+            792.5,
+            374.7
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.55,
+          "pitch_y": 23.06,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            649.5,
+            322.8,
+            683.5,
+            392.8
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 27.45,
+          "pitch_y": 33.29,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            562.2,
+            437.3,
+            596.2,
+            507.3
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 21.03,
+          "pitch_y": 32.13,
+          "speed_kmh": 5.3,
+          "bbox_px": [
+            466.4,
+            424.0,
+            500.4,
+            494.0
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 13.68,
+          "pitch_y": 39.88,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            339.9,
+            515.2,
+            373.9,
+            585.2
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 42.55,
+          "pitch_y": 39.3,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            788.7,
+            508.2,
+            822.7,
+            578.2
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 33.68,
+          "pitch_y": 49.04,
+          "speed_kmh": 4.9,
+          "bbox_px": [
+            641.4,
+            629.4,
+            675.4,
+            699.4
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.44,
+          "pitch_y": 50.52,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            523.2,
+            648.5,
+            557.2,
+            718.5
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.78,
+          "pitch_y": 59.44,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            432.4,
+            768.0,
+            466.4,
+            838.0
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 16.26,
+          "pitch_y": 58.8,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            342.1,
+            759.1,
+            376.1,
+            829.1
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 82.79,
+        "pitch_y": 45.77,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 27,
+      "timestamp_sec": 1.08,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 64.51,
+          "pitch_y": 22.89,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1119.6,
+            321.0,
+            1153.6,
+            391.0
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.25,
+          "pitch_y": 21.14,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1246.5,
+            302.2,
+            1280.5,
+            372.2
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.07,
+          "pitch_y": 29.92,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            1342.6,
+            398.8,
+            1376.6,
+            468.8
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 84.84,
+          "pitch_y": 30.29,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1429.9,
+            403.0,
+            1463.9,
+            473.0
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.66,
+          "pitch_y": 41.18,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            1538.4,
+            531.0,
+            1572.4,
+            601.0
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 61.17,
+          "pitch_y": 42.43,
+          "speed_kmh": 6.7,
+          "bbox_px": [
+            1078.8,
+            546.3,
+            1112.8,
+            616.3
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 70.42,
+          "pitch_y": 51.0,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1232.2,
+            654.7,
+            1266.2,
+            724.7
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.96,
+          "pitch_y": 49.7,
+          "speed_kmh": 4.6,
+          "bbox_px": [
+            1368.0,
+            637.8,
+            1402.0,
+            707.8
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 84.61,
+          "pitch_y": 56.75,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1471.6,
+            731.1,
+            1505.6,
+            801.1
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 89.88,
+          "pitch_y": 56.66,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1558.1,
+            729.9,
+            1592.1,
+            799.9
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 39.88,
+          "pitch_y": 21.44,
+          "speed_kmh": 5.5,
+          "bbox_px": [
+            758.3,
+            305.4,
+            792.3,
+            375.4
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.61,
+          "pitch_y": 23.1,
+          "speed_kmh": 6.5,
+          "bbox_px": [
+            650.4,
+            323.3,
+            684.4,
+            393.3
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 27.52,
+          "pitch_y": 33.27,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            563.3,
+            437.1,
+            597.3,
+            507.1
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 21.05,
+          "pitch_y": 32.08,
+          "speed_kmh": 5.3,
+          "bbox_px": [
+            466.7,
+            423.4,
+            500.7,
+            493.4
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 13.63,
+          "pitch_y": 39.84,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            339.2,
+            514.7,
+            373.2,
+            584.7
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 42.48,
+          "pitch_y": 39.3,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            787.6,
+            508.2,
+            821.6,
+            578.2
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 33.66,
+          "pitch_y": 49.08,
+          "speed_kmh": 4.2,
+          "bbox_px": [
+            641.0,
+            629.9,
+            675.0,
+            699.9
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.48,
+          "pitch_y": 50.56,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            523.8,
+            649.0,
+            557.8,
+            719.0
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.84,
+          "pitch_y": 59.44,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            433.5,
+            768.0,
+            467.5,
+            838.0
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 16.29,
+          "pitch_y": 58.76,
+          "speed_kmh": 4.1,
+          "bbox_px": [
+            342.7,
+            758.6,
+            376.7,
+            828.6
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 82.83,
+        "pitch_y": 44.99,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 28,
+      "timestamp_sec": 1.12,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 64.56,
+          "pitch_y": 22.85,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1120.3,
+            320.5,
+            1154.3,
+            390.5
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.24,
+          "pitch_y": 21.09,
+          "speed_kmh": 5.1,
+          "bbox_px": [
+            1246.2,
+            301.6,
+            1280.2,
+            371.6
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 79.0,
+          "pitch_y": 29.9,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            1341.5,
+            398.6,
+            1375.5,
+            468.6
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 84.78,
+          "pitch_y": 30.33,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            1429.0,
+            403.4,
+            1463.0,
+            473.4
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.66,
+          "pitch_y": 41.24,
+          "speed_kmh": 4.9,
+          "bbox_px": [
+            1538.6,
+            531.7,
+            1572.6,
+            601.7
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 61.23,
+          "pitch_y": 42.45,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1079.8,
+            546.5,
+            1113.8,
+            616.5
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 70.48,
+          "pitch_y": 50.98,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1233.1,
+            654.4,
+            1267.1,
+            724.4
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.96,
+          "pitch_y": 49.65,
+          "speed_kmh": 4.1,
+          "bbox_px": [
+            1368.0,
+            637.2,
+            1402.0,
+            707.2
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 84.56,
+          "pitch_y": 56.72,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1470.7,
+            730.7,
+            1504.7,
+            800.7
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 89.81,
+          "pitch_y": 56.68,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1557.1,
+            730.2,
+            1591.1,
+            800.2
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 39.88,
+          "pitch_y": 21.5,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            758.2,
+            306.0,
+            792.2,
+            376.0
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.68,
+          "pitch_y": 23.14,
+          "speed_kmh": 6.9,
+          "bbox_px": [
+            651.3,
+            323.7,
+            685.3,
+            393.7
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 27.59,
+          "pitch_y": 33.25,
+          "speed_kmh": 6.6,
+          "bbox_px": [
+            564.3,
+            436.9,
+            598.3,
+            506.9
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 21.06,
+          "pitch_y": 32.03,
+          "speed_kmh": 4.7,
+          "bbox_px": [
+            467.0,
+            422.8,
+            501.0,
+            492.8
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 13.57,
+          "pitch_y": 39.8,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            338.4,
+            514.2,
+            372.4,
+            584.2
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 42.41,
+          "pitch_y": 39.31,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            786.5,
+            508.4,
+            820.5,
+            578.4
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 33.63,
+          "pitch_y": 49.13,
+          "speed_kmh": 4.6,
+          "bbox_px": [
+            640.5,
+            630.5,
+            674.5,
+            700.5
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.53,
+          "pitch_y": 50.61,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            524.5,
+            649.6,
+            558.5,
+            719.6
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.91,
+          "pitch_y": 59.44,
+          "speed_kmh": 5.8,
+          "bbox_px": [
+            434.6,
+            768.0,
+            468.6,
+            838.0
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 16.32,
+          "pitch_y": 58.72,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            343.3,
+            758.0,
+            377.3,
+            828.0
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 82.77,
+        "pitch_y": 44.21,
+        "speed_kmh": 0.0
+      }
+    },
+    {
+      "frame_idx": 29,
+      "timestamp_sec": 1.16,
+      "players_count": 20,
+      "players": [
+        {
+          "track_id": 2,
+          "team": "team_b",
+          "pitch_x": 64.61,
+          "pitch_y": 22.8,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1121.0,
+            320.0,
+            1155.0,
+            390.0
+          ]
+        },
+        {
+          "track_id": 3,
+          "team": "team_b",
+          "pitch_x": 73.21,
+          "pitch_y": 21.03,
+          "speed_kmh": 5.3,
+          "bbox_px": [
+            1245.8,
+            301.0,
+            1279.8,
+            371.0
+          ]
+        },
+        {
+          "track_id": 4,
+          "team": "team_b",
+          "pitch_x": 78.93,
+          "pitch_y": 29.9,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            1340.4,
+            398.5,
+            1374.4,
+            468.5
+          ]
+        },
+        {
+          "track_id": 5,
+          "team": "team_b",
+          "pitch_x": 84.72,
+          "pitch_y": 30.37,
+          "speed_kmh": 6.5,
+          "bbox_px": [
+            1428.2,
+            403.9,
+            1462.2,
+            473.9
+          ]
+        },
+        {
+          "track_id": 6,
+          "team": "team_b",
+          "pitch_x": 90.67,
+          "pitch_y": 41.29,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            1538.8,
+            532.3,
+            1572.8,
+            602.3
+          ]
+        },
+        {
+          "track_id": 7,
+          "team": "team_b",
+          "pitch_x": 61.29,
+          "pitch_y": 42.47,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            1080.8,
+            546.8,
+            1114.8,
+            616.8
+          ]
+        },
+        {
+          "track_id": 8,
+          "team": "team_b",
+          "pitch_x": 70.54,
+          "pitch_y": 50.95,
+          "speed_kmh": 5.9,
+          "bbox_px": [
+            1234.0,
+            654.0,
+            1268.0,
+            724.0
+          ]
+        },
+        {
+          "track_id": 9,
+          "team": "team_b",
+          "pitch_x": 78.96,
+          "pitch_y": 49.6,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            1367.9,
+            636.5,
+            1401.9,
+            706.5
+          ]
+        },
+        {
+          "track_id": 10,
+          "team": "team_b",
+          "pitch_x": 84.5,
+          "pitch_y": 56.7,
+          "speed_kmh": 5.4,
+          "bbox_px": [
+            1469.7,
+            730.4,
+            1503.7,
+            800.4
+          ]
+        },
+        {
+          "track_id": 11,
+          "team": "team_b",
+          "pitch_x": 89.75,
+          "pitch_y": 56.7,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            1556.1,
+            730.5,
+            1590.1,
+            800.5
+          ]
+        },
+        {
+          "track_id": 12,
+          "team": "team_a",
+          "pitch_x": 39.87,
+          "pitch_y": 21.55,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            758.1,
+            306.6,
+            792.1,
+            376.6
+          ]
+        },
+        {
+          "track_id": 13,
+          "team": "team_a",
+          "pitch_x": 32.73,
+          "pitch_y": 23.18,
+          "speed_kmh": 6.5,
+          "bbox_px": [
+            652.1,
+            324.1,
+            686.1,
+            394.1
+          ]
+        },
+        {
+          "track_id": 14,
+          "team": "team_a",
+          "pitch_x": 27.66,
+          "pitch_y": 33.24,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            565.4,
+            436.7,
+            599.4,
+            506.7
+          ]
+        },
+        {
+          "track_id": 15,
+          "team": "team_a",
+          "pitch_x": 21.07,
+          "pitch_y": 31.98,
+          "speed_kmh": 4.6,
+          "bbox_px": [
+            467.2,
+            422.2,
+            501.2,
+            492.2
+          ]
+        },
+        {
+          "track_id": 16,
+          "team": "team_a",
+          "pitch_x": 13.52,
+          "pitch_y": 39.76,
+          "speed_kmh": 6.1,
+          "bbox_px": [
+            337.6,
+            513.8,
+            371.6,
+            583.8
+          ]
+        },
+        {
+          "track_id": 17,
+          "team": "team_a",
+          "pitch_x": 42.34,
+          "pitch_y": 39.32,
+          "speed_kmh": 6.4,
+          "bbox_px": [
+            785.4,
+            508.5,
+            819.4,
+            578.5
+          ]
+        },
+        {
+          "track_id": 18,
+          "team": "team_a",
+          "pitch_x": 33.61,
+          "pitch_y": 49.18,
+          "speed_kmh": 5.0,
+          "bbox_px": [
+            640.1,
+            631.1,
+            674.1,
+            701.1
+          ]
+        },
+        {
+          "track_id": 19,
+          "team": "team_a",
+          "pitch_x": 26.57,
+          "pitch_y": 50.65,
+          "speed_kmh": 5.7,
+          "bbox_px": [
+            525.1,
+            650.1,
+            559.1,
+            720.1
+          ]
+        },
+        {
+          "track_id": 20,
+          "team": "team_a",
+          "pitch_x": 21.98,
+          "pitch_y": 59.44,
+          "speed_kmh": 6.3,
+          "bbox_px": [
+            435.7,
+            767.9,
+            469.7,
+            837.9
+          ]
+        },
+        {
+          "track_id": 21,
+          "team": "team_a",
+          "pitch_x": 16.35,
+          "pitch_y": 58.68,
+          "speed_kmh": 4.5,
+          "bbox_px": [
+            343.8,
+            757.5,
+            377.8,
+            827.5
+          ]
+        }
+      ],
+      "ball": {
+        "pitch_x": 82.59,
+        "pitch_y": 43.44,
+        "speed_kmh": 0.0
+      }
+    }
+  ],
+  "aggregated_metrics": {
+    "total_distance_covered_km": 0.037,
+    "high_speed_runs_count": 0,
+    "heat_zones_matrix_grid": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        4.0,
+        4.8,
+        0.0,
+        7.1
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        5.6,
+        0.0,
+        4.8,
+        2.4
+      ],
+      [
+        0.0,
+        0.0,
+        9.5,
+        0.0,
+        2.4,
+        2.4,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        4.8,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.8,
+        0.0,
+        4.8,
+        1.1,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        8.7,
+        0.0,
+        0.0,
+        5.9,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        4.8,
+        1.1,
+        6.2,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        4.8,
+        4.8,
+        9.5,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  }
+}

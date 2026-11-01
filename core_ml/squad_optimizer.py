@@ -149,3 +149,4 @@ class SquadOptimizer:
             "solve_time_sec": elapsed,
             "squad": squad_list,
         }
+
