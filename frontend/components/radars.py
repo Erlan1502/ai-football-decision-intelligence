@@ -142,3 +142,4 @@ def create_radar_comparison(
     )
 
     return fig
+

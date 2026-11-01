@@ -9,3 +9,4 @@ __all__ = [
     "create_tracking_pitch_figure",
     "create_tactical_formation_board",
 ]
+

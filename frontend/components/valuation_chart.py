@@ -89,3 +89,4 @@ def create_valuation_scatter_matrix(players: List[Dict[str, Any]]) -> go.Figure:
     )
 
     return fig
+
