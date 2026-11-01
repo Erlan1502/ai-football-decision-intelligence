@@ -1,0 +1,14 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+env/
+.env
+*.log
+*.pt
+*.onnx
+data/*.csv
+data/*.parquet
+!data/.gitkeep
+models/*.pkl
+models/*.joblib
+.DS_Store
