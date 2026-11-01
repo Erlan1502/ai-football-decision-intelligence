@@ -107,3 +107,4 @@ def project_bbox_to_pitch(
     feet_x = (x1 + x2) / 2.0
     feet_y = y2
     return project_pixel_to_pitch(H, feet_x, feet_y, clip=clip)
+

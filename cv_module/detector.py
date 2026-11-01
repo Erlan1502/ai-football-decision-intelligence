@@ -108,3 +108,4 @@ class ScoutObjectDetector:
             })
 
         return detections
+

@@ -178,3 +178,4 @@ if __name__ == "__main__":
     pipeline = ScoutCVPipeline()
     result = pipeline.process_clip(max_frames=75)
     pipeline.save_json(result)
+

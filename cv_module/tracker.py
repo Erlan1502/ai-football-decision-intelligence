@@ -129,3 +129,4 @@ class ScoutByteTracker:
                 })
 
         return output_entities
+
