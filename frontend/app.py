@@ -1,7 +1,15 @@
 import os
+import sys
+from pathlib import Path
 import json
 import logging
 from typing import List, Dict, Any, Optional
+
+# Ensure project root is in sys.path so 'frontend', 'core_ml', 'api' can be imported
+ROOT_DIR = Path(__file__).resolve().parent.parent
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
 import numpy as np
 import pandas as pd
 import streamlit as st
